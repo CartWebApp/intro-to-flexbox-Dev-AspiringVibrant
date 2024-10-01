@@ -34,6 +34,8 @@
   align-items: center;
   align-content: space-around;
   height: 100vh;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 [class^="box"] {
